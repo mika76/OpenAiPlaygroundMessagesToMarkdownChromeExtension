@@ -4,7 +4,7 @@ Date: 29/03/2023 12:02:27
 
 ---
 
-**SYSTEM:** sdfsdfdsf
+**SYSTEM:** You are a helpful javascript coding assistant.
 
 ---
 
